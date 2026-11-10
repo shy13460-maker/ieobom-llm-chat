@@ -1,0 +1,12 @@
+runtime/
+models/
+data/
+*.log
+*.zip
+PUBLIC_URL.txt
+__pycache__/
+evidence/
+test_*.py
+build_report.py
+collect_environment.py
+upload_to_notion.py
